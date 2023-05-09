@@ -1,0 +1,41 @@
+.container {
+  margin: 32px 120px;
+  display: flex;
+
+}
+
+.logo {
+  color: gray;
+  text-decoration: none;
+  margin-bottom: 25%;
+}
+
+.upper{
+  text-transform: uppercase;
+}
+
+.heading {
+  margin-bottom: 112px;
+}
+
+summary {
+  cursor: pointer;
+  list-style: none;
+  padding-bottom: 20px;
+  width: fit-content;
+  outline: none;
+}
+
+details {
+  margin-bottom: 32px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+.bubble {
+  margin-left: -100px;
+  height: 800px;
+  z-index: -1;
+}

@@ -1,0 +1,21 @@
+.form {
+  position: relative;
+  min-width: 640px;
+  max-height: 80vh;
+  width: 100%;
+  padding: 54px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.position {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  text-align: center;
+  padding: 16px;
+  margin-bottom: 32px;
+}
